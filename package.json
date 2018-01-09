@@ -1,0 +1,22 @@
+{
+  "name": "path-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrickenHamster/path-problem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrickenHamster/path-problem/issues"
+  },
+  "homepage": "https://github.com/FrickenHamster/path-problem#readme",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
